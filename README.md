@@ -16,4 +16,4 @@ Made nav links clickable
 
 added alt tags to images.
 
-![portfolio demo](/Assets/Images/01-html-css-git-homework-demo.png)
+![portfolio demo](/assets/images/01-html-css-git-homework-demo.png)
